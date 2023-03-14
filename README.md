@@ -1,7 +1,6 @@
 # Housing_Price_Prediction
 Seattle King County data analysis
 
-### Introduction
 
 The Project covers analysis of the vital data set  “Seattle King County Housing”. The real estate property has always been a basic need for an individual. With the advent of increasing population, there arises a need to accurately understand the contributing factors, impacting variables responsible for the property pricing. As a result, we as the Analysts through this dataset are analysing the Seattle King County Housing dataset, because in real estate, the property's condition, location, and other qualitative factors largely affect the potential income of a property. 
 
